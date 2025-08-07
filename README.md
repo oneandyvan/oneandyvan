@@ -1,15 +1,11 @@
 # Andy Van
 
----
-
 ## About Me
 I'm an avid Software Engineer with a Bachelor of Science degree in Computer Science from UCF. Although I specialize in Front-End Development, I love to learn about the other parts of the stack, as well as familiarizing myself with new technologies. I find it fun to be able to realize a project from start to finish, knowing that the finish line can be the start of another lap. 
 
-**Contributing to the comforting moments in life!**
+***Contributing to the comforting moments in life!***
 
----
-
-### Contact
+## Contact
 [LinkedIn](https://www.linkedin.com/in/andy-van-dev/)
 Email - oneandyvan@gmail.com
 
