@@ -5,8 +5,9 @@ I'm an avid Software Engineer with a Bachelor of Science degree in Computer Scie
 
 ***Contributing to the comforting moments in life!***
 
-## Contact
+## Contact Me
 [LinkedIn](https://www.linkedin.com/in/andy-van-dev/)
+
 Email - oneandyvan@gmail.com
 
 <!--
